@@ -4,30 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" >
     <title>README</title>
-    <style>
 
-    h1 {text-align: center;}
-    p {text-align: center;}
-   .p{
-      border-radius: 10px;
-   }
-   .pi{
-      border-radius: 5px;
-   }
-   .font{
+</head>
+<style>
+
+h1 {text-align: center;}
+p {text-align: center;}
+.p{
+    border-radius: 10px;
+}
+.pi{
+    border-radius: 5px;
+}
+.font{
    font-size: 20px;
-      font-weight: 700; 
-   }
-   .font1{
-     font-size: 15px;
-     font-weight: 700;
-   }
-   .b1{
+    font-weight: 700;
+}
+.font1{
+   font-size: 15px;
+    font-weight: 700;
+}
+.b1{
      background-color:gold;
      border-radius: 5px;
-   }
+}
 </style>
-</head>
 <body>
 <div>
 <p>
