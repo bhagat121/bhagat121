@@ -13,8 +13,6 @@
  <a href="mailto:rajdeepb3300@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 </div>
-
-<br />
 <h3 align="center"><strong>A small introduction about me</strong></h3>
 <p>Hey, I am currently in my final year of Bachelors in Computer Science. I am a <strong>Full-Stack Web Development enthusiast</strong>. I have been into the field of web development for almost 1 year now and excited for upcoming projects.</p>
 
@@ -52,7 +50,7 @@
 <h3><b>Github Stats 📈</b></h3>
 <br />
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat121&layout=compact)|
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat121&layout=compact)
 
 
 <img class="p" src="https://activity-graph.herokuapp.com/graph?username=bhagat121&theme=react-dark" />
