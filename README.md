@@ -1,4 +1,36 @@
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <style>
+
+        h1 {text-align: center;}
+        p {text-align: center;}
+   .p{
+      border-radius: 10px;
+   }
+   .pi{
+      border-radius: 5px;
+   }
+   .font{
+   font-size: 20px;
+      font-weight: 700; 
+   }
+   .font1{
+     font-size: 15px;
+     font-weight: 700;
+   }
+   .b1{
+     background-color:gold;
+     border-radius: 5px;
+   }
+</style>
+</head>
+<!-- <style>
+
 h1 {text-align: center;}
 p {text-align: center;}
 .p{
@@ -19,7 +51,8 @@ p {text-align: center;}
      background-color:gold;
      border-radius: 5px;
 }
-</style>
+</style> -->
+<body>
 <div>
 <p>
     <img class="pi" src="Hey.gif" alt="error" />
@@ -111,7 +144,8 @@ p {text-align: center;}
 <p>If you have any queries or just wanna say hi,</p>
 <p class="font1">MAIL ME  <a href="mailto:rajdeepb3300@gmail.com"> <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/06/icon-google-gmail-new.png?q=50&fit=crop&w=750&dpr=1.5" alt="Python" height="15" style="vertical-align:bottom; margin:4px"></a></p>
 
-
+</body>
+</html>
 
 
 
