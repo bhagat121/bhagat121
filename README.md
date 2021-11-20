@@ -16,7 +16,7 @@
 </p>
 
 
-<p class="font">Welcome to my Github profile!</p>
+<p style="text-align:center;" class="font">Welcome to my Github profile!</p>
 <p>Scroll down below to find what I do, what I am doing, and what I am upto.</p>
 <p class="font1">Want to collabrate, reach me below.</p>
 <p class="b1" align="center">
