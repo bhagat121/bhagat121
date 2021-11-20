@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <div>
 <p>
-    <img class="pi" src="css/Hey.gif" alt="error" />
+    <img class="pi" src="Hey.gif" alt="error" />
 </p>
 <p>
    <img src="https://visitor-badge.laobi.icu/badge?page_id=bhagat121.bhagat121" />
