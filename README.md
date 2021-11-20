@@ -17,12 +17,12 @@ p {text-align: center;}
 }
 .b1{
      background-color:gold;
-      border-radius: 5px;
+     border-radius: 5px;
 }
 </style>
 <div>
 <p>
-    <img src="Hey, What's Poppin Guys!.gif" alt="error" />
+    <img class="pi" src="Hey.gif" alt="error" />
 </p>
 <p>
    <img src="https://visitor-badge.laobi.icu/badge?page_id=bhagat121.bhagat121" />
@@ -41,7 +41,7 @@ p {text-align: center;}
 
 <br />
 <p class="font">A small introduction about me</p>
-<p>Hey, I am currently in my final year of Bachelors in Computer Science. I am a Full-Stack Web Development enthusiast. I have been into the field of web development for almost 1 year now and excited for upcoming projects.</p>
+<p>Hey, I am currently in my final year of Bachelors in Computer Science. I am a <strong>Full-Stack Web Development enthusiast</strong>. I have been into the field of web development for almost 1 year now and excited for upcoming projects.</p>
 
  <h3 class="font1">I'm upto!</h3>
 <ul>
@@ -51,9 +51,8 @@ p {text-align: center;}
 <br />
 <h3>Wanna see my work <a href="https://sleepy-atoll-13084.herokuapp.com">click here.</a></h3>
 <br />
-<h2>Tech Stack I work with</h2>
+<h2 class="font">Tech Stack I work with 👇</h2>
 <h3>Web Development Stack</h3>
-<br />
 <img class="pi" src="https://img.shields.io/badge/Reactjs-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img class="pi" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img class="pi" src="	https://img.shields.io/badge/HTML5-7fffd4?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -63,39 +62,37 @@ p {text-align: center;}
 <img class="pi" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img class="pi" src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img class="pi" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <br />
 
 
 <h3>Languages</h3>
-<br />
 <img class="pi" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img class="pi" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img class="pi" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img class="pi" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
 <br />
 
 <h3>Version Control</h3>
-<br />
 <img class="pi" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img class="pi" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
 <br />
 
 <h3>ML Stack</h3>
-<br />
 <img class="pi" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img class="pi" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <br />
 
 <h3>Hosting</h3>
-<br />
 <img class="pi"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
+
 <br />
 
 <div>
-<h3>Github Stats</h3>
+<h3 class="font">Github Stats 📈</h3>
 <br />
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bhagat121&show_icons=true&theme=highcontrast" /> -->
