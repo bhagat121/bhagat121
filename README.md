@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" >
-    <title>README</title>
 
 </head>
+
+<body>
 <style>
 
 h1 {text-align: center;}
@@ -29,7 +28,6 @@ p {text-align: center;}
      border-radius: 5px;
 }
 </style>
-<body>
 <div>
 <p>
     <img class="pi" src="Hey.gif" alt="error" />
