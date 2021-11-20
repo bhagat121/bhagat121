@@ -14,7 +14,7 @@
 </p>
 </div>
 <h3 align="center"><strong>A small introduction about me</strong></h3>
-<p>Hey, I am currently in my final year of Bachelors in Computer Science. I am a <strong>Full-Stack Web Development enthusiast</strong>. I have been into the field of web development for almost 1 year now and excited for upcoming projects.</p>
+<p align="center">Hey, I am currently in my final year of Bachelors in Computer Science. I am a <strong>Full-Stack Web Development enthusiast</strong>. I have been into the field of web development for almost 1 year now and excited for upcoming projects.</p>
 
  <h3><strong>I'm upto!</strong></h3>
 <ul>
@@ -58,12 +58,12 @@
 <br />
 <br />
 <div align="center">
-   <p><b>Thank you for your time.</b></p>
+   <h3><b>Thank you for your time.</b></h3>
      I hope you had a great day.
    <br><br>
    <p align="center">If you have any queries or just wanna say hi,</p>
     <p align="center"><b>MAIL ME</b>     
-       <a href="mailto:rajdeepb3300@gmail.com"> <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/06/icon-google-gmail-new.png?q=50&fit=crop&w=750&dpr=1.5" alt="Python" height="15" style="vertical-align:bottom; margin:4px"></a></p>
+       <a href="mailto:rajdeepb3300@gmail.com"> <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/06/icon-google-gmail-new.png?q=50&fit=crop&w=750&dpr=1.5" alt="Python" height="15" style="vertical-align:top; margin:4px"></a></p>
 </div>
 
 
