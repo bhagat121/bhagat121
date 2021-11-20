@@ -2,13 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator</title>
+    <meta http-equiv="X-UA-Compatible" >
+    <title>README</title>
     <style>
 
-        h1 {text-align: center;}
-        p {text-align: center;}
+    h1 {text-align: center;}
+    p {text-align: center;}
    .p{
       border-radius: 10px;
    }
@@ -29,29 +28,6 @@
    }
 </style>
 </head>
-<!-- <style>
-
-h1 {text-align: center;}
-p {text-align: center;}
-.p{
-    border-radius: 10px;
-}
-.pi{
-    border-radius: 5px;
-}
-.font{
-   font-size: 20px;
-    font-weight: 700;
-}
-.font1{
-   font-size: 15px;
-    font-weight: 700;
-}
-.b1{
-     background-color:gold;
-     border-radius: 5px;
-}
-</style> -->
 <body>
 <div>
 <p>
