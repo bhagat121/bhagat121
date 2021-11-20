@@ -1,25 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
+
 <div>
 <p>
-    <img class="pi" src="Hey.gif" alt="error" />
-</p>
-<p>
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=bhagat121.bhagat121" />
+    <img src="Hey.gif" alt="error" />
 </p>
 
-
-<p style="text-align:center;" class="font">Welcome to my Github profile!</p>
-<p>Scroll down below to find what I do, what I am doing, and what I am upto.</p>
-<p class="font1">Want to collabrate, reach me below.</p>
-<p class="b1" align="center">
+<h3 align="center"><strong>Welcome to my Github profile!</strong></h3>
+<p align="center">Scroll down below to find what I do, what I am doing, and what I am upto.</p>
+<p align="center"><strong>Want to collabrate, reach me below.</strong></p>
+<p align="center" style="background-color:gold;">
  <a href="https://github.com/bhagat121" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/rajdeep-bhagat-b94866216/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:rajdeepb3300@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -27,79 +15,58 @@
 </div>
 
 <br />
-<p class="font">A small introduction about me</p>
+<h3 align="center"><strong>A small introduction about me</strong></h3>
 <p>Hey, I am currently in my final year of Bachelors in Computer Science. I am a <strong>Full-Stack Web Development enthusiast</strong>. I have been into the field of web development for almost 1 year now and excited for upcoming projects.</p>
 
- <h3 class="font1">I'm upto!</h3>
+ <h3><strong>I'm upto!</strong></h3>
 <ul>
    <li>Happy to contribute and add value to community.</li>
    <li>Happy to join your organisation and contribute.</li>
 </ul>
 <br />
-<h3>Wanna see my work <a href="https://sleepy-atoll-13084.herokuapp.com">click here.</a></h3>
+<h3><strong>Wanna see my work</strong> <a href="https://sleepy-atoll-13084.herokuapp.com">click here.</a></h3>
 <br />
-<h2 class="font">Tech Stack I work with 👇</h2>
-<h3>Web Development Stack</h3>
-<img class="pi" src="https://img.shields.io/badge/Reactjs-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img class="pi" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img class="pi" src="	https://img.shields.io/badge/HTML5-7fffd4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)"/>
-<img class="pi" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img class="pi" src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<h2><strong>Tech Stack I work with 👇</strong></h2>
+<h4><b>Web Development Stack</b></h4>
 
-<br />
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic)  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) ![MySQL](https://img.shields.io/badge/Mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic)
 
+<h4><b>Languages</b></h4>
 
-<h3>Languages</h3>
-<img class="pi" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img class="pi" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=plastic) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&style=plastic) 
 
-<br />
+<h4><b>ML Stack</b></h4>
 
-<h3>Version Control</h3>
-<img class="pi" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic)
 
-<br />
+<h4><b>Version Control</h4>
 
-<h3>ML Stack</h3>
-<img class="pi" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img class="pi" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)  ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic) 
 
-<br />
+<h4><b>Hosting</b></h4>
 
-<h3>Hosting</h3>
-<img class="pi"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white&style=plastic)
 
-<br />
 
 <div>
-<h3 class="font">Github Stats 📈</h3>
+<h3><b>Github Stats 📈</b></h3>
 <br />
 
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bhagat121&show_icons=true&theme=highcontrast" /> -->
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat121&layout=compact)|
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat121&layout=compact" />
-<br />
 
 <img class="p" src="https://activity-graph.herokuapp.com/graph?username=bhagat121&theme=react-dark" />
 
 <br />
 <br />
-<p class="font1">Thank you for your time.</p>
-<p>I hope you had a great day.</p>
-<br />
-
-<p>If you have any queries or just wanna say hi,</p>
-<p class="font1">MAIL ME  <a href="mailto:rajdeepb3300@gmail.com"> <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/06/icon-google-gmail-new.png?q=50&fit=crop&w=750&dpr=1.5" alt="Python" height="15" style="vertical-align:bottom; margin:4px"></a></p>
-
-</body>
-</html>
+<div align="center">
+   <p><b>Thank you for your time.</b></p>
+     I hope you had a great day.
+   <br><br>
+   <p align="center">If you have any queries or just wanna say hi,</p>
+    <p align="center"><b>MAIL ME</b>     
+       <a href="mailto:rajdeepb3300@gmail.com"> <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/06/icon-google-gmail-new.png?q=50&fit=crop&w=750&dpr=1.5" alt="Python" height="15" style="vertical-align:bottom; margin:4px"></a></p>
+</div>
 
 
 
