@@ -38,7 +38,7 @@
 
 <h4><b>ML Stack</b></h4>
 
- ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic)
+ ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic) ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=ai&logoColor=white&style=plastic)
 
 <h4><b>Version Control</h4>
 
