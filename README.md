@@ -4,8 +4,8 @@
     <img src="Hey.gif" alt="error" />
 </p>
 
-<h3 align="center"><strong>Welcome to my Github profile!</strong></h3>
-<p align="center">Scroll down below to find what I do, what I am doing, and what I am upto.</p>
+<h3 align="center"><strong>Welcome to my GitHub profile!</strong></h3>
+<p align="center">Scroll down below to find what I do, what I am doing, and what I am up to.</p>
 <p align="center"><strong>Want to collabrate, reach me below.</strong></p>
 <p align="center" style="background-color:gold;">
  <a href="https://github.com/bhagat121" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -14,12 +14,12 @@
 </p>
 </div>
 <h3 align="center"><strong>A small introduction about me</strong></h3>
-<p align="center">Hey, I am currently in my final year of Bachelors in Computer Science. I am a <strong>Full-Stack Web Development enthusiast</strong>. I have been into the field of web development for almost 1 year now and excited for upcoming projects.</p>
+<p align="center">As a Software Engineer with more than two and a half years of experience, I have honed my front-end and back-end development skills, <strong>specializing in React JS, Next JS, TypeScript, Javascript, Python, and SQL</strong>. I have successfully delivered user-centric solutions by transforming complex challenges into efficient, scalable applications. My experience includes leading teams to resolve high-priority issues promptly, demonstrating my proactive approach and leadership abilities. Additionally, I have hands-on experience developing rule-based machine learning pipelines and enhancing system intelligence and automation. I am a continuous learner with a go-getter attitude, committed to driving technological advancements and contributing to organizational success.</p>
 
- <h3><strong>I'm upto!</strong></h3>
+ <h3><strong>I'm up to!</strong></h3>
 <ul>
-   <li>Happy to contribute and add value to community.</li>
-   <li>Happy to join your organisation and contribute.</li>
+   <li>Happy to contribute and add value to the community.</li>
+   <li>Happy to join your organization and contribute.</li>
 </ul>
 <br />
 <h3><strong>Wanna see my work</strong> <a href="https://sleepy-atoll-13084.herokuapp.com">click here.</a></h3>
@@ -28,6 +28,8 @@
 <h4><b>Web Development Stack</b></h4>
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic)  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) ![MySQL](https://img.shields.io/badge/Mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic)
 
 <h4><b>Languages</b></h4>
 
